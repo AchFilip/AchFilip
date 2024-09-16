@@ -5,9 +5,9 @@
 
 👋 Hey there! I'm Achilleas Filippidis, a 25-year-old tech enthusiast from Greece, rocking both a BSc and MSc in Computer Science from the University of Crete, specializing in Computer Graphics, XR Development, and Human-Computer Interaction. I thrive on taking innovation to the next level through R&D and immersive experiences!
 
-Currently, I am a Lead VR Developer in [ORamaVR](https:oramavr.com) and my responsibilities vary from leading the development process of VR training simulations (Tech Lead & Project Management) to being a core developer in hard VR medical training scenarios.
+Currently, I am a Lead VR Developer in [ORamaVR](https:oramavr.com) and my responsibilities vary from leading the development process of VR training simulations (Tech Lead & Project Management) to being a core developer in challenging VR medical training scenarios.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/achilleas-filippidis/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achilleas-filippidis/) 
 
 <br></br>
 # 💻 Tech Stack:
