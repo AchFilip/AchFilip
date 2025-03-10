@@ -4,6 +4,8 @@
 
 👋 Hey there! I'm Achilleas Filippidis, a 25-year-old tech enthusiast from Greece, rocking both a BSc and MSc in Computer Science from the University of Crete, specializing in Computer Graphics, XR Development, and Human-Computer Interaction. I thrive on taking innovation to the next level through R&D and immersive experiences!
 
+I have 4 years of experience as a Software Engineer. My responsibilities included leading the development process for VR training simulations, which involved task delegation, client communication, and providing technical support to my team. Additionally, I was a core developer on complex VR training projects, such as simulating surgical robotic systems in VR, as well as maintaining and updating older projects. I also mentored and trained interns while contributing UX improvements and gamification ideas to enhance the company's offerings.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achilleas-filippidis/) 
 
 <br></br>
